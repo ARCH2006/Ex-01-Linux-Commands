@@ -213,7 +213,6 @@ Syntax: ifconfig[options][interface]
 
 The chmod 777 command gives read, write and execute permission to the owner, group and public.
 
-**Name:** 
 $chmod -R 777 /path/to/file/or/folder
  
 ### 23)	host Command
@@ -289,7 +288,7 @@ Syntax: df
 
 The find command is used to find a particular file within a directory.
 
-**Name:** 
+
 
 
 
