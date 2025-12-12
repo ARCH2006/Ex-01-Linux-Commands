@@ -200,6 +200,97 @@ Syntax: make [-f makefile][options]…….[targets]….
 ![image](https://github.com/user-attachments/assets/d330e936-84f4-4e94-a206-1659319727fa)
 
 
+### 21)	ifconfig Command
+
+The ifconfig command is used to configure kernel-resident network interface.
+
+Syntax: ifconfig[options][interface]
+
+
+![276812468-49eba749-432d-4781-b840-cef388ea1cca](https://github.com/user-attachments/assets/d518579e-0b50-4dea-8eb9-695aca3471b4)
+
+### 22)	chmod 777 Command
+
+The chmod 777 command gives read, write and execute permission to the owner, group and public.
+
+**Name:** 
+$chmod -R 777 /path/to/file/or/folder
+ 
+### 23)	host Command
+
+**Name:** 
+
+**Name:** 
+
+
+![276812563-3ed1a386-4acd-45e0-988e-5c8f91724e91](https://github.com/user-attachments/assets/7167812f-a122-44b0-a7f5-5068b93d3805)
+
+
+### 24)	gzip Command
+
+The gzip command is used to truncate the file size. It is a compressing tool. It replaces the original file by the compressed file having '.gz' extension.
+
+Syntax: gzip <file1> <file2> <file3>..
+
+
+![276812592-702d984b-18ab-41be-99ce-8f12092d5164](https://github.com/user-attachments/assets/6e2d399c-58b2-46a0-baf6-fbb0fe343b15)
+
+
+### 25)	sort Command
+
+The sort command is used to sort files in alphabetical order.
+
+**Name:** 
+
+
+![276812681-94201a8c-442d-4d50-a950-6150c6b7c806](https://github.com/user-attachments/assets/ac7758d1-4991-4c8f-98e8-2f5f54c4116d)
+
+ 
+### 26)	cal Command
+
+The cal command is used to display the current month's calendar with the current date highlighted.
+
+Syntax: cal
+
+
+![276812710-f70d268d-3053-4257-9d7d-87836bf9b435](https://github.com/user-attachments/assets/44dcf7c6-9111-4ac1-b686-24ee43a16c74)
+
+
+### 27)	clear Command
+
+Linux clear command is used to clear the terminal screen.
+
+Syntax: clear
+
+
+![276812743-db06dbad-b3de-40e2-b4a6-7bc6347c78f0](https://github.com/user-attachments/assets/4c1bc740-7859-4600-8e7e-df142efd5a8d)
+
+
+### 28)	mail Command
+
+The mail command is used to send emails from the command line.
+
+Syntax: mail -s "Subject" <recipient address>
+
+
+![276812778-63f3333e-bbff-4fb1-8e49-ec4bbf8f3888](https://github.com/user-attachments/assets/60a5c3a7-f700-4bba-96df-6a5fbbbc50df)
+
+ 
+### 29)	df Command
+
+The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
+
+Syntax: df
+
+
+![276812829-4df9a6ff-ec1e-4929-adfe-32c909a90e4a](https://github.com/user-attachments/assets/4e07b3ef-eae6-42ac-966d-477cffe2c80c)
+
+### 30)	find Command
+
+The find command is used to find a particular file within a directory.
+
+**Name:** 
+
 
 
 ## Result:
